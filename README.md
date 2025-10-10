@@ -15,7 +15,6 @@ Here are the topics I have practiced and included in this repository. Each folde
 * Divide & Conquer
 * HashMap
 * LinkedList
-* OOPS (Object-Oriented Programming)
 * Patterns
 * Recursion
 * Sorting Algorithms
