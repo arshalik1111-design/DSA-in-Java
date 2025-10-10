@@ -13,7 +13,6 @@ Here are the topics I have practiced and included in this repository. Each folde
 * Arrays
 * Bit Manipulation
 * Divide & Conquer
-* Functions
 * HashMap
 * LinkedList
 * OOPS (Object-Oriented Programming)
