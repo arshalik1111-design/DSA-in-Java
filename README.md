@@ -10,7 +10,7 @@ Here are the topics I have practiced and included in this repository. Each folde
 
 * 2D Arrays
 * ArrayList
-* Arrays & Arrays II
+* Arrays
 * Bit Manipulation
 * Divide & Conquer
 * Functions
